@@ -1,16 +1,33 @@
-<h1 align="center">Hi there👋, I'm Praful Prakash Goel</h1>
-<h3 align="center">BTech CSE Undergrad</h3>
-<!--
-**praful-prakash-goel/praful-prakash-goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Praful Prakash Goel</h1>
+<h3 align="center">Building LLMs from Scratch & Exploring AI Architectures</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  I am a Computer Science undergraduate passionate about unboxing the "black box" of Deep Learning. 
+  After working with pre-built models in <b>TensorFlow</b>, I shifted my focus to <b>PyTorch</b> to build and optimize Transformer architectures from the ground up.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **My most recent work includes:** Building a character-level English-to-French Transformer from scratch, implementing optimizations like **KV Caching** and **RoPE**.
+- 🌱 **I’m currently learning:** Low-level optimization of attention mechanisms and advanced model architecture.
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitor badge"/>
+</p>
+
+---
+
+### 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,seaborn,numpy,FastAPI" alt="My Skills" />
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast)](https://git.io/streak-stats)
+
+</div>

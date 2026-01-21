@@ -2,10 +2,6 @@
 <h3 align="center">Building LLMs from Scratch & Exploring AI Architectures</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=praful-prakash-goel.praful-prakash-goel" alt="visitor badge"/>
-</p>
-
-<p align="center">
   I am a Computer Science undergraduate passionate about unboxing the "black box" of Deep Learning. 
   After working with pre-built models in <b>TensorFlow</b>, I shifted my focus to <b>PyTorch</b> to build and optimize Transformer architectures from the ground up.
 </p>
@@ -16,10 +12,16 @@
 
 ---
 
+### 🤝 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/praful-prakash-goel" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Praful Prakash Goel" />
+</a>
+</p>
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,seaborn,numpy,FastAPI" alt="My Skills" />
+ <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,seaborn,numpy,fastapi" alt="My Skills" />
 </p>
 
 ---

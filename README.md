@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/praful-prakash-goel/" target="_blank">
-  <img src="https://img.icons8.com/color/48/linkedin.png" />
+  <img src="https://img.icons8.com/color/72/linkedin.png" width="60"/>
 </a>
 </p>
 

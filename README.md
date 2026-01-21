@@ -21,7 +21,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,pytorch,tensorflow,docker,fastapi,pandas,numpy,matplotlib,seaborn,scikit-learn" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,pytorch,tensorflow,docker,fastapi,pandas,numpy,matplotlib,seaborn" alt="My Skills" />
 </p>
 
 <p align="left">

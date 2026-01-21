@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 My GitHub Stats:
+## 📊 My GitHub Stats:
 
 <table>
   <tr>
@@ -48,6 +48,10 @@
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark" />
       </a>
     </td>
+
+    <!-- GAP -->
+    <td width="60"></td>
+
     <td align="right">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180"
@@ -56,5 +60,6 @@
     </td>
   </tr>
 </table>
+
 
 

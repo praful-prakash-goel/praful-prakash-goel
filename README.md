@@ -49,8 +49,7 @@
       </a>
     </td>
 
-    <!-- GAP -->
-    <td width="60"></td>
+    <td width="80"></td>
 
     <td align="right">
       <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -60,6 +59,7 @@
     </td>
   </tr>
 </table>
+
 
 
 

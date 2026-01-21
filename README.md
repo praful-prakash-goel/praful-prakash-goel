@@ -12,10 +12,11 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" />
-</a>
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
 
 ### Languages and Tools:

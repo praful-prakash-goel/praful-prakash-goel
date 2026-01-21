@@ -12,14 +12,24 @@
 
 ---
 
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" />
-</a>
-
-### Languages and Tools:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,seaborn,numpy,fastapi" alt="My Skills" />
+  <a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,pytorch,tensorflow,docker,fastapi" alt="My Skills" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-9C27B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ---

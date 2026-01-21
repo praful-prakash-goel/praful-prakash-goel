@@ -41,23 +41,21 @@
 ## 📊 My GitHub Stats:
 
 <table>
-  <tr>
-    <td align="left">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark" />
-      </a>
-    </td>
+<tr>
+<td align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark" />
+</a>
+</td>
 
-    <td width="80"></td>
+<td width="80"></td>
 
-    <td align="right">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180"
-          src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark" />
-      </a>
-    </td>
-  </tr>
+<td align="right">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark" />
+</a>
+</td>
+</tr>
 </table>
 
 

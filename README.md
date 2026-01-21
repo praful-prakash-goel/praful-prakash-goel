@@ -21,8 +21,9 @@
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,numpy,fastapi,sklearn" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,numpy,fastapi,sklearn&perline=12" />
 </p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />

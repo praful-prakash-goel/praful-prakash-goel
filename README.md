@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/praful-prakash-goel/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="45" />
+</a>
 </p>
 
 ### Languages and Tools:

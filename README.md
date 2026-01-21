@@ -15,7 +15,7 @@
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="60"/>
   </a>
 </p>
 

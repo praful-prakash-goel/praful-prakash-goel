@@ -42,13 +42,15 @@
 
 ## 📊 My GitHub Stats:
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark"
     />
   </a>
+</p>
 
+<p aligh="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark"

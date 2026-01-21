@@ -13,8 +13,8 @@
 ---
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/praful-prakash-goel">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/praful-prakash-goel" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="40" width="40" />
 </a>
 
 ### Languages and Tools:
@@ -26,7 +26,7 @@
 
 ### 📊 My GitHub Stats:
 
-<div align="center">
+<div align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

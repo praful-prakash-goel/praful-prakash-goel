@@ -2,6 +2,10 @@
 <h3 align="center">Building LLMs from Scratch & Exploring AI Architectures</h3>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=praful-prakash-goel" alt="visitor badge"/>
+</p>
+
+<p align="center">
   I am a Computer Science undergraduate passionate about unboxing the "black box" of Deep Learning. 
   After working with pre-built models in <b>TensorFlow</b>, I shifted my focus to <b>PyTorch</b> to build and optimize Transformer architectures from the ground up.
 </p>
@@ -9,9 +13,6 @@
 - 🔭 **My most recent work includes:** Building a character-level English-to-French Transformer from scratch, implementing optimizations like **KV Caching** and **RoPE**.
 - 🌱 **I’m currently learning:** Low-level optimization of attention mechanisms and advanced model architecture.
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="visitor badge"/>
-</p>
 
 ---
 

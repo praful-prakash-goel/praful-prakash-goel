@@ -40,8 +40,21 @@
 
 ### 📊 My GitHub Stats:
 
-| | |
-|---|---|
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark" /></a> | <p align="right"><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark" /></a></p> |
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="180"
+          src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 

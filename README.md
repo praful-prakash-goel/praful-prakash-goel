@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there👋, I'm Praful Prakash Goel</h1>
 <h3 align="center">BTech CSE Undergrad</h3>
 <!--
 **praful-prakash-goel/praful-prakash-goel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

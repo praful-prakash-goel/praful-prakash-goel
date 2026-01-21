@@ -13,11 +13,9 @@
 ---
 
 ### 🤝 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/praful-prakash-goel" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Praful Prakash Goel" />
+<a href="https://www.linkedin.com/in/praful-prakash-goel">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-</p>
 
 ### Languages and Tools:
 <p align="left">

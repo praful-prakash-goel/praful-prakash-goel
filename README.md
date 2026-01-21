@@ -40,8 +40,19 @@
 
 ### 📊 My GitHub Stats:
 
-<div align="left">
+## 📊 My GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful-prakash-goel&layout=compact&theme=vision-friendly-dark"
+    />
+  </a>
 
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&theme=vision-friendly-dark"
+    />
+  </a>
+</p>
+

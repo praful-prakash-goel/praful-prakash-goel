@@ -34,7 +34,7 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" />
 
-  <img src="https://www.streamlinehq.com/icons/download/fastapi-icon--31103" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
   <img src="https://en.wikipedia.org/wiki/Scikit-learn" height="60"/>
 </p>
 

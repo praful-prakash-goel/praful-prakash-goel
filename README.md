@@ -2,7 +2,7 @@
 <h3 align="center">Building LLMs from Scratch & Exploring AI Architectures</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=praful-prakash-goel" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=praful-prakash-goel.praful-prakash-goel" alt="visitor badge"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,8 @@
 
 ---
 
-### 🚀 Languages and Tools:
+
+### Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,seaborn,numpy,FastAPI" alt="My Skills" />
 </p>

@@ -19,9 +19,9 @@
   </a>
 </p>
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql,pytorch,tensorflow,docker,fastapi,pandas,numpy,matplotlib,seaborn" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,pytorch,tensorflow,docker,pandas,matplotlib,numpy,fastapi,sklearn" />
 </p>
 
 <p align="left">

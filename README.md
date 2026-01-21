@@ -32,8 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" />
-  <img src="https://api.iconify.design/simple-icons:fastapi.svg?color=%23009688" height="45" />
-  <img src="https://api.iconify.design/simple-icons:scikitlearn.svg?color=%23F7931E" height="45" />
+  <img src="https://api.iconify.design/simple-icons:fastapi.svg?color=%23009688" height="100" />
+  <img src="https://api.iconify.design/simple-icons:scikitlearn.svg?color=%23F7931E" height="100" />
 </p>
 
 ---

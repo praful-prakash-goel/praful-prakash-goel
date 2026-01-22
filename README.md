@@ -47,6 +47,10 @@
   </a>
 </p>
 
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=praful-prakash-goel&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+
+<br/>  
+
 
 
 

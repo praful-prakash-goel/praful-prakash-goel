@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/praful_prakash_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praful_prakash_goel" height="40" width="50" /></a>
 </p>
 
-### Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" />

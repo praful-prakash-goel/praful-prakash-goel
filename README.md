@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="350" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Praful Prakash Goel</h1>
 <h3 align="center">Building LLMs from Scratch & Exploring AI Architectures</h3>
 

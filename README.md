@@ -20,7 +20,6 @@
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/praful-prakash-goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praful-prakash-goel" height="40" width="50" /></a>
-<a href="https://kaggle.com/prafulgoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prafulgoel" height="40" width="50" /></a>
 <a href="https://instagram.com/goel_praful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goel_praful" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/praful_prakash_goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="praful_prakash_goel" height="40" width="50" /></a>
 </p>
